@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+printf("hello insta");
 printf("hello whatsapp");
 printf("hello facebook");
 printf("hello google");
