@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+printf("hello there");
 printf("hello all");
 printf("hello friend");
 printf("hello gmail");
