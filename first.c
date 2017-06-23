@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+printf("hello git");
 printf("hello there");
 printf("hello all");
 printf("hello insta");
